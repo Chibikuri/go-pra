@@ -1,0 +1,5 @@
+package: github.com/Chibikuri/go-pra
+import:
+- package: github.com/Chibikuri/lambdaQ
+  subpackages:
+  - internal/circuit
